@@ -1,6 +1,5 @@
 '''
 Deby Krisan Anggraeni 
-KELAS 2G
 '''
 print("==============================================")
 print(" CAFFE KRISAN ")
